@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Super Hero App</string>
+
+    <!--TextView Labels Superhero Information-->
+    <string name="tv_superhero_name">Nombre Súper Héroe</string>
+    <string name="tv_superhero_full_name">Nombre</string>
+    <string name="tv_superhero_editor">Compañía Publicitaria</string>
+
+    <!--TextView Labels Power Stats-->
+    <string name="tv_power_stat_combat">Combate</string>
+    <string name="tv_power_stat_durability">Duración</string>
+    <string name="tv_power_stat_intelligence">Inteligencia</string>
+    <string name="tv_power_stat_power">Poder</string>
+    <string name="tv_power_stat_speed">Velocidad</string>
+    <string name="tv_power_stat_strength">Fuerza</string>
+</resources>

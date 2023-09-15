@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="four">4dp</dimen>
+    <dimen name="eight">8dp</dimen>
+    <dimen name="fifteen">15dp</dimen>
+    <dimen name="sixteen">16dp</dimen>
+    <dimen name="thirty">30dp</dimen>
+    <dimen name="two_hundred">200dp</dimen>
+    <dimen name="three_hundred">300dp</dimen>
+    <dimen name="fifty_hundred">500dp</dimen>
+    <dimen name="four_hundred_fifty">350dp</dimen>
+</resources>
